@@ -21,7 +21,7 @@
 ### 1. Клонируйте репозиторий
 
 ```sh
-git clone https://github.com/ваш_репозиторий/lab2web-main.git
+git clone https://github.com/vicoder98/lab2web.git
 cd lab2web-main
 ```
 
